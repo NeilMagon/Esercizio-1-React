@@ -1,12 +1,12 @@
 import React from 'react'
 
-function App() {
+function List () {
 
   return (
     <>
-
+    <h1>Lista</h1>
     </>
   )
 }
 
-export default App
+export default List
